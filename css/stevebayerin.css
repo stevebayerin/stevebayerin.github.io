@@ -1,6 +1,6 @@
 body{
-    background-color: navy;
-    color: beige;
+    background-color: white;
+    color: black;
     margin: 1em 0 0 0;
     text-align: left;    
   }
@@ -9,3 +9,5 @@ div.container{
   margin:0 auto;
   width: 600px
 }
+
+div.mast{background-color: lightblue;}
