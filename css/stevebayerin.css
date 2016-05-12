@@ -15,7 +15,7 @@ h1{
 
 div.container{
     margin:0 auto;
-    width: 600px
+    max-width: 600px
 }
 
 div.mast{
