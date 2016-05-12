@@ -25,3 +25,8 @@ div.mast{
  div.main-content div.container{
     padding: 1em 0;
 }
+
+img{
+    width:100%;
+    max-width:600px;
+}
