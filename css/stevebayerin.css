@@ -9,6 +9,10 @@ nav.navbar{
     margin-bottom: 0;
   }
 
+nav.navbar-nav {
+    margin: 0 -15px;
+}
+
 h1{
     margin:1em 0;
   }
