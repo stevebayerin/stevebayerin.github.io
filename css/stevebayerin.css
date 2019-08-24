@@ -2,7 +2,7 @@ body{
     background-color: cornflowerblue;
     color: black;
     margin:0;
-    text-align: left;    
+    text-align: left
   }
 
   div.page{
@@ -20,7 +20,8 @@ nav.navbar-nav {
 }
 
 h1{
-    padding: 0.25em
+  padding: 0.25em 0.5em;
+  margin: 0.5em 0 0
   }
 
 div.container{
@@ -28,12 +29,12 @@ div.container{
     }
 	
 div.container .navbar-header{
-	margin: 0 0 0.5em 0;
+	margin: 0 0 0.5em 0
 }
 	
 div.container ul.nav{
 	margin: 0;
-    padding: 0;
+    padding: 0
 }
 	
 div.container ul.nav li{
@@ -47,7 +48,7 @@ div[role=main]{
 }
 
 div.mast{
-    background-color: lightblue;
+    background-color: lightblue
   }
  
  div.main-content div.container{
