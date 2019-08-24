@@ -26,6 +26,10 @@ h1{
 div.container{
     margin:0 auto;
     }
+	
+.nav ul li{
+	float: left;
+}
 
 div.mast{
     background-color: lightblue;
@@ -36,6 +40,6 @@ div.mast{
 }
 
 img{
-    width:100%;
-    max-width:600px;
+    height: 640px;
+	width:480px    
 }
