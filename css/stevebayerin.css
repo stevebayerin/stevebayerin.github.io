@@ -27,9 +27,13 @@ div.container{
     margin:0 auto;
     }
 	
-ul.nav li{
+div.container ul.nav li{
+	display: block;
 	float: left;
+	
 }
+
+div[role=main]{clear:both;}
 
 div.mast{
     background-color: lightblue;
