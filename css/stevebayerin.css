@@ -5,6 +5,11 @@ body{
     text-align: left;    
   }
 
+  div.page{
+	width:9860px;
+	margin: 0 auto
+  }
+  
 nav.navbar{
     margin-bottom: 0;
   }
