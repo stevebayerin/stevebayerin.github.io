@@ -12,28 +12,34 @@ body{
   }
   
 nav.navbar{
-    margin-bottom: 0;
+    padding: 1em
   }
 
 nav.navbar-nav {
-    margin: 0;
+    margin: 0
 }
 
 h1{
-    padding: 0.25em;
+    padding: 0.25em
   }
 
 div.container{
-    margin:0 auto;
+    margin:0 auto
     }
 	
-div.container ul.nav li{
-	display: block;
-	float: left;
+div.container ul.nav{
+	margin: 0.5em 0
+}
 	
+div.container ul.nav li{
+  display: block;
+  float: left;
+  margin: 0 1em 0 0
 }
 
-div[role=main]{clear:both;}
+div[role=main]{
+	clear:both
+}
 
 div.mast{
     background-color: lightblue;
